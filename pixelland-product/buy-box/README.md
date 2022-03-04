@@ -1,12 +1,12 @@
 # Buy BOX
 
-PixelLandは、アセットの発行・展示・取引をサポートする総合プラットフォームであり、Buy BOXはPixelLandの中心です。
+**PixelLand is a comprehensive platform that supports the issuing, displaying, and trading of assets, and Buy BOX is the heart of PixelLand.**
 
-## レアリティ
+## **Rarity**
 
-NFTカードにはN、R、SR、SSR、UR、SPのような様々なレアリティが存在し、レアリティごとにマイニングパワーが異なります。ユーザーが誓約したNFTパワーの割合に応じて、対応する割合のPixelFinanceTokenがユーザーに発行されます。
+NFT cards come in various rarities such as N, R, SR, SSR, UR, and SP, and each rarity has a different mining power. Depending on the percentage of NFT power pledged by the user, the corresponding percentage of PixelFinanceToken will be issued to the user.
 
-### カードの種類
+### **Card Types**
 
 Normal:60\
 Rare:40\
@@ -15,4 +15,4 @@ Special Super Rare:20\
 Ultra Rare:10\
 Special Card:To be changed
 
-手に入れたカードはFusion、Single Pools、Fusion Pools、Market Placeにて使用することが可能です。
+**The cards can be used at Fusion, Single Pools, Fusion Pools, and MarketPlace.**
