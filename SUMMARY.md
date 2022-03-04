@@ -30,16 +30,11 @@
 ## PixelLand product
 
 * [PixelLand Intro](pixelland-product/pixelland-intro.md)
-* [Buy BOX](pixelland-product/buy-box/README.md)
-  * [How to Buy BOX](pixelland-product/buy-box/how-to-buy-box.md)
-* [Fusion](pixelland-product/fusion/README.md)
-  * [How to Fusion](pixelland-product/fusion/how-to-fusion.md)
-* [Single Pools](pixelland-product/single-pools/README.md)
-  * [How to Single Pools](pixelland-product/single-pools/how-to-single-pools.md)
-* [Fusion Pools](pixelland-product/fusion-pools/README.md)
-  * [How to Fusion Pools](pixelland-product/fusion-pools/how-to-fusion-pools.md)
-* [Market Place](pixelland-product/market-place/README.md)
-  * [How to Market Place](pixelland-product/market-place/how-to-market-place.md)
+* [Buy BOX](pixelland-product/buy-box.md)
+* [Fusion](pixelland-product/fusion.md)
+* [Single Pools](pixelland-product/single-pools.md)
+* [Fusion Pools](pixelland-product/fusion-pools.md)
+* [Market Place](pixelland-product/market-place.md)
 
 ## TOKENOMICS
 

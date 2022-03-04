@@ -8,7 +8,7 @@ PixelLand is a comprehensive platform that supports the issuance, exhibition, tr
 
 ### Buy BOX
 
-**You can purchase cards directly from the wallet app. NFT cards come in various rarities such as N, R, SR, SSR, UR and SP, and each rarity has different mining power.** [**Read more**](buy-box/)****
+**You can purchase cards directly from the wallet app. NFT cards come in various rarities such as N, R, SR, SSR, UR and SP, and each rarity has different mining power.** [**Read more**](buy-box.md)****
 
 ### **Low cost**
 
@@ -16,16 +16,16 @@ PixelLand is a comprehensive platform that supports the issuance, exhibition, tr
 
 ### Fusion features
 
-**Fusion is a feature that allows you to combine specific NFTs in PixelLand to create a new card, which can then be used in the Fusion Pool or MarketPlace.**[詳しく読む](fusion/)
+**Fusion is a feature that allows you to combine specific NFTs in PixelLand to create a new card, which can then be used in the Fusion Pool or MarketPlace.**[**Read more**](fusion.md)****
 
 ### **Earn tokens at Single Pool**
 
-**The easiest way to earn tokens in PixelLand is to use the single pool. Users can earn free tokens over time by staking cards purchased with Buy BOX.**[詳しく読む](broken-reference/)
+**The easiest way to earn tokens in PixelLand is to use the single pool. Users can earn free tokens over time by staking cards purchased with Buy BOX.**[**Read more**](single-pools.md)****
 
 ### **Earn tokens at Fusion Pools**
 
-**You can earn BUSD deposited in Fusion Pools by staking your fusion card in PixelLand to Fusion Pools.**[詳しく読む](broken-reference/)
+**You can earn BUSD deposited in Fusion Pools by staking your fusion card in PixelLand to Fusion Pools.**[**Read more**](fusion-pools.md)****
 
 ### MarketPlace
 
-**MarketPlace is a P2P trading platform for NFTs in PixelLand. Users can trade NFT at any time.**[詳しく読む](market-place/)
+**MarketPlace is a P2P trading platform for NFTs in PixelLand. Users can trade NFT at any time.**[**Read more**](pixelland-intro.md#marketplace)****
