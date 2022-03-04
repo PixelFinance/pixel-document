@@ -1,5 +1,7 @@
 # Exchange
 
+![](../../.gitbook/assets/pixel\_docs011.png)
+
 PixelSwap is a distributed exchange where you can exchange crypto assets, and Exchange is the heart of PixelSwap.
 
 PixelSwap Exchange has several features to support distributed transactions.

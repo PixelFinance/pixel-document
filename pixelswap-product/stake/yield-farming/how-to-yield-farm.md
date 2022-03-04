@@ -1,4 +1,6 @@
-# How to Yield Farm
+# How to Yield Farming
+
+![](../../../.gitbook/assets/pixel\_docs019.png)
 
 ### Add Liquidity
 

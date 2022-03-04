@@ -1,4 +1,6 @@
-# How to Stake Tokens
+# How to Staking Pools
+
+![](../../../.gitbook/assets/pixel\_docs017.png)
 
 Follow the steps below to stake your PXF
 

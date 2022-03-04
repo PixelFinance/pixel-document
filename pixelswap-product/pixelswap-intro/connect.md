@@ -1,5 +1,7 @@
 # Connect
 
+![](../../.gitbook/assets/pixel\_docs012.png)
+
 To connect your wallet to PixelSwap, please follow the steps below.
 
 1. Click on the [PixelSwap](https://pixel.pixelfinance.io) link or type the URL into your browser.

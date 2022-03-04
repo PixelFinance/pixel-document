@@ -1,5 +1,7 @@
 # Customer Support
 
+![](../../.gitbook/assets/pixel\_docs04.png)
+
 ### PixelFinance does not have customer support.
 
 If you are experiencing problems, please try contacting the Telegram group.

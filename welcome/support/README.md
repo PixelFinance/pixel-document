@@ -1,5 +1,7 @@
 # Support
 
+![](<../../.gitbook/assets/pixel\_docs06 (1).png>)
+
 ## **Questions About PixelFinance?**
 
 > **See the General FAQ and all PixelFinance Intro guides for Exchange, Staking Pools, Yield Farms, and more.**

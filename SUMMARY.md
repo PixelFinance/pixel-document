@@ -20,9 +20,9 @@
   * [Liquidity](pixelswap-product/exchange/liquidity.md)
 * [Stake](pixelswap-product/stake/README.md)
   * [Staking Pools](pixelswap-product/stake/staking-pools/README.md)
-    * [How to Stake Tokens](pixelswap-product/stake/staking-pools/how-to-stake-tokens.md)
+    * [How to Staking Pools](pixelswap-product/stake/staking-pools/how-to-stake-tokens.md)
   * [Yield Farming](pixelswap-product/stake/yield-farming/README.md)
-    * [How to Yield Farm](pixelswap-product/stake/yield-farming/how-to-yield-farm.md)
+    * [How to Yield Farming](pixelswap-product/stake/yield-farming/how-to-yield-farm.md)
 * [Lottery](pixelswap-product/lottery.md)
 * [PIXEL STARTER](pixelswap-product/pixel-starter.md)
 * [AIRDROP](pixelswap-product/airdrop.md)
@@ -38,4 +38,4 @@
 
 ## TOKENOMICS
 
-* [$PXF](tokenomics/usdpxf.md)
+* [$PXF](tokenomics/usdpxf/README.md)

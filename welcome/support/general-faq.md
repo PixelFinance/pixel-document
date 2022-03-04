@@ -1,5 +1,7 @@
 # General FAQ
 
+![](../../.gitbook/assets/pixel\_docs07.png)
+
 ## What is $PXF?
 
 $PXF is a currency issued by PixelFinance. By holding $PXF, you can participate in most of the liquidity mining and liquidity pool services within PixelFinance.

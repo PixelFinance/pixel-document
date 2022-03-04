@@ -1,5 +1,7 @@
 # Social Accounts & Communities
 
+![](../../.gitbook/assets/pixel\_docs05.png)
+
 You can find a list of PixelFinance's official media channels and communities.
 
 ## Twitter

@@ -1,5 +1,7 @@
 # PixelSwap Intro
 
+![](../../.gitbook/assets/pixel\_docs010.png)
+
 ## **About PixelSwap**
 
 PixelSwap is a decentralized exchange that runs on the Binance Smart Chain, with a focus on providing the best trading experience. Users can pool liquidity into PixelSwap through yield farming and get $PXF, the native currency, as an incentive. In addition, you can use $PXF to stake and earn other project tokens.

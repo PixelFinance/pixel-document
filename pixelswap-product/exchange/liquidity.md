@@ -1,5 +1,7 @@
 # Liquidity
 
+![](../../.gitbook/assets/pixel\_docs014.png)
+
 ## **About PixelSwap Liquidity Pool**
 
 PixelSwap's liquidity pool allows you to provide liquidity by adding your token to the liquidity pool or “LP ”

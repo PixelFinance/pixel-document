@@ -1,5 +1,7 @@
 # Business Partnerships
 
+![](../../.gitbook/assets/pixel\_docs03.png)
+
 ## Provide your token to Pools or Farms
 
 If you provide your tokens to the Staking Pool, you can distribute them to the users who will stake the PXF.

@@ -1,6 +1,6 @@
 # $PXF
 
-![](../.gitbook/assets/pixel\_docs035.png)
+![](../../.gitbook/assets/pixel\_docs035.png)
 
 * **Ticker:** PixelFinance($PXF)
 * **Contract Address:**[**https://bscscan.com/token/0x6a4792d10bee30ff25d1d8f9aa3721d204d88134**](https://bscscan.com/token/0x6a4792d10bee30ff25d1d8f9aa3721d204d88134)****
