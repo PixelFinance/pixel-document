@@ -1,7 +1,7 @@
 # Single Pools
 
-PixelLandのステーキングプールは、ユーザーが購入したブラインドボックスの金額の一部を受け取り、受け取ったNFTを賭けることでPixelFinanceTokenを獲得することができます。とてもシンプルです。
+PixelLand's Staking Pool can earn PixelFinanceTokens by taking a portion of the amount of blind boxes purchased by the user and betting the NFT received. It's very simple.
 
-PixelFinanceTokenを獲得するためにはNFTをバーンする必要があり、リアルタイムで支払われます。
+In order to get PixelFinanceTokens, you need to burn NFTs, which will be paid out in real time.
 
-ステークしたNFTをキャンセルしたい場合は、報酬がゼロになり、NFTを取り戻すことができます。
+If you want to cancel the staked NFTs, the reward will be lost, but you will get your NFTs back.
