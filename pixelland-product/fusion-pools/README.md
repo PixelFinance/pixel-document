@@ -1,7 +1,7 @@
 # Fusion Pools
 
-Fusion Poolは、PixelLandでNFTを組み合わせて賭けることで、リアルタイムの配当を得ることができます。
+Fusion Pool allows users to earn real-time payouts by betting on a combination of NFTs in PixelLand.
 
-ユーザーが購入したブラインドボックスの金額の一部がFusion Poolに入ります。ポイントが高ければ高いほど、得られる配当の割合も高くなります。
+A portion of the blind box amount purchased by the user goes into the Fusion Pool. The higher the points, the higher the percentage of the payout you get.
 
-Staking Poolとは異なり、BNBを獲得するためにNFTを燃やす必要はありません。
+Unlike the Staking Pool, you do not need to burn NFTs to win BNBs.
