@@ -61,7 +61,3 @@
 * [Smart Contracts](developers/smart-contracts.md)
 * [Security](developers/security/README.md)
   * [Audits](developers/security/audits.md)
-
-## HIRING
-
-* [Social Media Marketing Manager](hiring/social-media-marketing-manager.md)

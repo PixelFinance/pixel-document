@@ -1,5 +1,7 @@
 # PixelFinance Intro
 
+![](.gitbook/assets/pixel\_docs01.png)
+
 PixelFinance is a DeFi protocol that runs on the Binance Smart Chain and allows users to earn their own currency, $PXF, by taking advantage of the many features PixelFinance offers.
 
 {% hint style="info" %}
@@ -26,23 +28,23 @@ By playing the Lottery at PixelSwap, you will have a chance to win a big payout.
 
 ## PixelLand
 
-> a
+> **An NFT platform within PixelFinance that allows users to leverage NFT as a financial asset as well as collections.**
 
 ### Single Pools
 
-Staking Poolは、ユーザーが購入したブラインドボックスの金額の一部を受け取り、受け取ったNFTを賭けることでPixelFinanceTokenを獲得することができます。とてもシンプルです。PixelFinanceTokenを獲得するためにはNFTを燃やす必要があり、リアルタイムで支払あ
+The Staking Pool can earn PixelFinanceTokens by taking a portion of the amount of blind boxes purchased by the user and betting the NFT received. It's very simple. You need to burn NFT to get PixelFinanceToken, which are paid out in real time.
 
 ### Fusion Pools
 
-Fusion Poolは、PixelLandでNFTを組み合わせて賭けることで、リアルタイムの配当を得ることができます。ユーザーが購入したブラインドボックスの金額の一部がFusion Poolに入ります。ポイントが高ければ高いほど、得られる配当の割合も高くなります。Staking Poolとは異なり、BNBを獲得するためにNFTを燃やす必要はありません。
+Fusion Pool allows users to earn real-time payouts by betting on a combination of NFTs in PixelLand. A portion of the blind box amount purchased by the user goes into the Fusion Pool. Unlike the Staking Pool, you don't need to burn NFTs to win BNBs.
 
 ### Market Place
 
-MarketPlaceとは、PixelLandにおけるNFTのP2P取引プラットフォームです。ユーザーは好きな時にNFTを取引することが可能です。Fusionに必要なキャラクターが出品されていることもあるのでチェックしておくといいかもしれません。
+MarketPlace is a P2P trading platform for NFTs in PixelLand. Users can trade NFTs whenever they want, and you may want to check it out, as there may be some characters you need for Fusion on display.
 
 ## PixelLimited
 
-> PixelFinance内の宝くじ形式のマッチングプラットフォームであり、ユーザーは売買する事で報酬を得る事ができます。
+> **It's a lottery-style matching platform within PixelFinance that allows users to earn rewards by buying and selling.**
 
 ### Card Application
 
@@ -54,4 +56,4 @@ There is also a jackpot system in which the accumulated fees are distributed to 
 
 Cards that have reached their final value can also be transferred to PixelLand.
 
-製品情報については、サービス毎のイントロをご確認下さい。
+Please check the intro for each service for product information.
