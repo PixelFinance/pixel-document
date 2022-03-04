@@ -1,19 +1,17 @@
 # Contact Us
 
+![](../../.gitbook/assets/pixel\_docs02.png)
 
-
-以下の項目よりお問い合わせしたい内容をチェックして下さい。
+Please check the contents you want to inquire about from the following items.
 
 ### [Business Partnerships](./#business-partnerships)
 
-
-
-Pools,PixelStarter,その他で何かご要望があればBusiness Partnershipsを確認して下さい。
+Check out Business Partnerships for Pools, PixelStarter, and more.
 
 ### [Customer Support](./#customer-support)
 
-PixelFinanceに関する問題のヘルプを取得します。
+Get help with PixelFinance problems.
 
 ### [Social Accounts & Communities](./#social-accounts-and-communities)
 
-PixelFinanceの公式ソーシャルメディアアカウントとコミュニティのリストを確認できます。
+You can find a list of PixelFinance's official social media accounts and communities.
