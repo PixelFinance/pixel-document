@@ -1,5 +1,7 @@
 # PixelLand Intro
 
+![](../.gitbook/assets/pixel\_docs025.png)
+
 ## **About PixelLand**
 
 PixelLand is a comprehensive platform that supports the issuance, exhibition, trading assets. Users can earn PT by betting on NFT cards. In addition, there are different rarities of cards (N, R, SR, SSR, UR, SP) and each rarity has different powers. These are just a few of the contents that users can enjoy.

@@ -1,8 +1,10 @@
-# Buy BOX
+# Buy Card
 
-**PixelLand is a comprehensive platform that supports the issuing, displaying, and trading of assets, and Buy BOX is the heart of PixelLand.**
+![](../../.gitbook/assets/pixel\_docs026.png)
 
-## **Rarity**
+PixelLand is a comprehensive platform that supports the issuing, displaying, and trading of assets, and Buy BOX is the heart of PixelLand.
+
+### **Rarity**
 
 NFT cards come in various rarities such as N, R, SR, SSR, UR, and SP, and each rarity has a different mining power. Depending on the percentage of NFT power pledged by the user, the corresponding percentage of PixelFinanceToken will be issued to the user.
 

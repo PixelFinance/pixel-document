@@ -30,7 +30,7 @@
 ## PixelLand product
 
 * [PixelLand Intro](pixelland-product/pixelland-intro.md)
-* [Buy BOX](pixelland-product/buy-box/README.md)
+* [Buy Card](pixelland-product/buy-box/README.md)
 * [Fusion](pixelland-product/fusion/README.md)
 * [Single Pools](pixelland-product/single-pools/README.md)
 * [Fusion Pools](pixelland-product/fusion-pools/README.md)
