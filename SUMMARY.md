@@ -9,9 +9,7 @@
   * [Social Accounts & Communities](welcome/contact-us/social-accounts-and-communities.md)
 * [Support](welcome/support/README.md)
   * [General FAQ](welcome/support/general-faq.md)
-  * [Tutorials](welcome/support/tutorials.md)
   * [Supported Wallets](welcome/support/supported-wallets.md)
-* [Roadmap](welcome/roadmap.md)
 
 ## PIXELSWAP PRODUCT
 

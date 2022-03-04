@@ -8,5 +8,4 @@ We recommend using PixelFinance with a MetaMask wallet. A full setup guide for M
 
 Not a MetaMask user? No problem. PixelFinance supports most popular wallets available on Binance Smart Chain, including:
 
-* TrustWalle
 * WalletConnect
