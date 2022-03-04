@@ -26,7 +26,7 @@ By playing the Lottery at PixelSwap, you will have a chance to win a big payout.
 
 ## PixelLand
 
-> PixelFinance内のNFTプラットフォームであり、ユーザーはコレクションだけでなくNFTを金融資産として活用する事ができます。
+> a
 
 ### Single Pools
 
