@@ -41,19 +41,7 @@
 * [Market Place](pixelland-product/market-place/README.md)
   * [How to Market Place](pixelland-product/market-place/how-to-market-place.md)
 
-## pixellimited product
-
-* [PixelLimited Intro](pixellimited-product/pixellimited-intro.md)
-* [COMING SOON](pixellimited-product/coming-soon.md)
-
 ## TOKENOMICS
 
 * [$PXF](tokenomics/usdpxf/README.md)
   * [PXF Tokenomics](tokenomics/usdpxf/pxf-tokenomics.md)
-  * [Page 4](tokenomics/usdpxf/page-4.md)
-
-## DEVELOPERS
-
-* [Smart Contracts](developers/smart-contracts.md)
-* [Security](developers/security/README.md)
-  * [Audits](developers/security/audits.md)
