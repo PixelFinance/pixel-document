@@ -3,26 +3,26 @@
 PixelFinance is a DeFi protocol that runs on the Binance Smart Chain and allows users to earn their own currency, $PXF, by taking advantage of the many features PixelFinance offers.
 
 {% hint style="info" %}
-PixelFinanceは、次の3つのサービスを利用する事で暗号を最大限に活用することができます。
+PixelFinance allows you to get the most out of crypto by using the following three services.
 
-PixelSwap,PixelLand,PixelLimitedについて
+PixelSwap, PixelLand and PixelLimited
 {% endhint %}
 
 ## PixelSwap
 
-> PixelFinance内の分散型取引所であり、ユーザーは高金利で暗号を獲得できます。
+> **A distributed exchange within PixelFinance that enables users to acquire crypto at high interest rates.**
 
 ### Pools
 
-PixelSwapでトークンを入手できる最も簡単な方法はPoolsを利用する事です。ユーザーは、PXFをステークする事で、長期的により多くの無料トークンを獲得できます。
+The easiest way to get tokens in PixelSwap is to use Pools. Staking PXF allows users to earn more free tokens over time.
 
 ### YieldFarms
 
-PixelSwapのFarmsへLPトークンをstakeする事で高いAPRでPXFを獲得する事ができます。<mark style="color:orange;">流動性を提供することは永久的なリスクにさらされる可能性があります。ImpermanentLossを理解した上で保持する必要があります。</mark>
+You can get PXF with high APR by staking LP tokens to PixelSwap's Farms. <mark style="color:red;">**Providing liquidity can be subject to permanent risk. You must understand ImpermanentLoss to retain.**</mark>
 
 ### Lottery
 
-PixelSwapのLotteryをプレイする事で高額配当を獲得するチャンスがあります。参加方法は簡単でPXFでチケットを購入するだけ。[詳しく読む](./#lottery)
+By playing the Lottery at PixelSwap, you will have a chance to win a big payout. It's easy to join, all you have to do is to buy a ticket with PXF. [**Read more**](./#lottery)****
 
 ## PixelLand
 
