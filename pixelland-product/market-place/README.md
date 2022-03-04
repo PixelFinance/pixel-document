@@ -1,7 +1,7 @@
 # Market Place
 
-MarketPlaceとは、PixelLandにおけるNFTのP2P取引プラットフォームです。
+MarketPlace is a P2P trading platform for NFTs in PixelLand.
 
-ユーザーは好きな時にNFTを取引することが可能です。
+It allows users to trade NFTs anytime.
 
-Fusionに必要なキャラクターが出品されていることもあるのでチェックしておくといいかもしれません。
+Sometimes characters necessary for Fusion are listed, so it might be a good idea to take a look.
