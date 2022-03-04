@@ -1,11 +1,11 @@
 # Stake
 
-PixelFinanceのステーキングプールでは、プロジェクトがトークンの一部をPXFトークン所有者に配布することで、採用の後押しをすることができます。ユーザーは、PXFトークンをステークして、パートナー・プロジェクトからトークンを獲得することができます。
+In PixelFinance's Staking Pool, projects can encourage adoption by distributing a portion of their tokens to PXF token owners. Users can stake PXF tokens to earn tokens from partner projects.
 
-ステークプールを使って、PixelFinanceのパートナーからやトークンを獲得する方法については、ステークプールの[ページ](staking-pools/)をご覧ください。
+To learn how to use StakePools to earn tokens from PixelFinance partners, visit the [StakePools](staking-pools/)&#x20;
 
-また、DEXに流動性を提供するユーザーには、ネイティブLPトークンであるPXF-LPをYield Farmsにステークして、 PXFを受け取ることができます。
+Users who provide liquidity to DEX can also receive PXF by staking the native LP token PXF-LP to Yield Farms.
 
-PXF-LPをステークしてリワードを獲得する方法については、Yield Farmsのページをご覧ください。
+See the Yield Farms page for information on how to stake PXF-LP to earn rewards.
 
-独自の暗号プロジェクト用のステーキングプールやイールドファームを作成することに興味がある方は、パートナーシップの[ページ](../../welcome/contact-us/business-partnerships.md)にアクセスして確認して下さい。
+If you are interested in creating a staking pool or yield farm for your own crypto project, please visit the [Partnership](../../welcome/contact-us/business-partnerships.md)

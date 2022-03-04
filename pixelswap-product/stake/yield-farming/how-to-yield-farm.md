@@ -2,19 +2,16 @@
 
 ### Add Liquidity
 
-Yield Farmを使用するには、流動性プロバイダートークンであるPXF-LPを取得する必要があります。流動性の追加についてサポートが必要な場合は、流動性のページにアクセスして下さい。
+To use Yield Farm, you must obtain the liquidity provider token PXF-LP. If you need assistance with adding liquidity, please visit the Liquidity page.
 
 ### Staking LPs
 
-Once you’ve obtained PXF-LPs, follow these steps to use our Yield Farms:&#x20;
+Once you’ve obtained PXF-LPs, follow these steps to use our Yield Farms:
 
-1. ウォレットをPixelSwapに接続します。
-2. YieldFarmsページにアクセスします。
-3. 使用するYieldFarmを選択します。
-4. 「有効にする」をクリックし、ウォレットでトランザクションを確認します。
-5. StakeLPボタンをクリックします。賭けたいLPトークンの数を入力し、ウォレットで取引を確認します。
+1. Connect the wallet to PixelSwap.
+2. Access the YieldFarms page.
+3. Select the YieldFarm you want to use.
+4. Click "Activate" and confirm the transaction in your wallet.
+5. Click on the StakeLP button. Enter the number of LP tokens you wish to stake and confirm the transaction in your wallet.
 
-トークンを引き出すために使用しているYieldFarmの「ハーベスト」ボタンをいつでも使用できます。
-
-
-
+You can always use the "Harvest" button on YieldFarm that you are using to withdraw your tokens.

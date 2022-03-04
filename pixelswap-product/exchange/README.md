@@ -1,15 +1,15 @@
 # Exchange
 
-PixelSwapは、暗号資産を交換できる分散型取引所であり、ExchangeはPixelSwapの中心です。
+PixelSwap is a distributed exchange where you can exchange crypto assets, and Exchange is the heart of PixelSwap.
 
-PixelSwapのExchangeは、分散型取引をサポートする複数の機能が存在します。
+PixelSwap Exchange has several features to support distributed transactions.
 
-### スワップとトレード
+### Swap and Trade
 
-PixelSwapのExchangeを使用すると、ユーザーは取引所を経由せずに取引を実行できます。また、ユーザーは自分のウォレットを介して直接取引を行うことができるので、自分が保有する100%の資産を管理することができます。
+PixelSwap's Exchange allows users to execute transactions without going through other exchanges. It also allows users to perform transactions directly through their own wallets, giving them 100% control over the assets they own.
 
-### 流動性
+### Liquidity
 
-PixelSwapでトークンが交換できる理由はトークンに十分な流動性が常に存在するからです。万が一、交換したいトークンに流動性が無い場合は取引を実行することはできません。
+The reason tokens can be exchanged in PixelSwap is that there is always enough liquidity in the tokens. In the unlikely event that the token you wish to exchange is illiquid, you will not be able to execute the transaction.
 
-その為、PixelSwapでは流動性を提供することで、LPトークンを得ることができ、そのLPトークンを使って様々な報酬を得ることができます。
+So PixelSwap provides liquidity so that you can get LP tokens and then use those LP tokens for various rewards.

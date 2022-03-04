@@ -1,12 +1,12 @@
 # Connect
 
-ウォレットをPixelSwapに接続するには、以下の手順に従ってください。
+To connect your wallet to PixelSwap, please follow the steps below.
 
-1. ホームページの[リンク](https://pixelfinance.io)をクリックするか、ブラウザにURLを入力します。
-2. ページの右上にある「接続」ボタンをクリックします。
-3. ウォレットのポップアップにサポートされているウォレットのリストが表示されます。該当するウォレットを選択して下さい。ウォレットを初めて接続する場合は、サイトの接続を許可する必要がある場合があります。
-4. 同じアカウント内に複数のウォレットがある場合は、適切なウォレットアドレスを選択します。
-5. 正しいウォレットが選択されたら、ウォレットポップアップの「接続」をクリックして続行します。
-6. 接続すると、ホームページの画面の右上に公開アドレスの一部が表示されます。
+1. Click on the [PixelSwap](https://pixel.pixelfinance.io) link or type the URL into your browser.
+2. Click the "Connect" button in the upper right corner of the page.
+3. The Wallet popup will show a list of supported wallets. Please select the appropriate wallet.
+4. The first time you connect a wallet, you may need to allow the site to connect.
+5. Once the correct wallet is selected, click "Connect" on the wallet pop-up to continue.
+6. Once connected, a portion of the public address will be displayed in the upper right corner of the homepage screen.
 
-ウォレットとPixelSwapの接続が完了しました。トークンの交換、流動性の追加、ステーキングプールとイールドファームの利用が可能になります。
+Now the connection between the wallet and PixelSwap has been completed. Now you can exchange tokens, add liquidity, and use staging pools and yield farms.

@@ -17,7 +17,7 @@ PixelStarter is the token sale model used by PixelFinance. PixelStarter works as
 * Users will use BUSD to purchase the newly issued token.
 * After the sale, we will distribute the procured BUSD to the customer, and exchange some of the procured BUSD for PXF and burn it.
 
-To learn more about how PixelStarter works, please [click here](../../pixelswap-product/pixel-starter/)
+To learn more about how PixelStarter works, please [click here](../../pixelswap-product/pixel-starter.md)
 
 <mark style="color:red;">**We are currently preparing an inquiry application form, so please wait a while longer.**</mark>
 

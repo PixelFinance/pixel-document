@@ -1,35 +1,33 @@
 # PixelSwap Intro
 
-## PixelSwapについて
+## **About PixelSwap**
 
-PixelSwapは、Binance Smart Chain上で実行される分散型取引所であり、最高の取引体験を提供することを重要視しています。ユーザーは、イールドファーミングを通じてPixelSwapに流動性をプールし、インセンティブとしてネイティブ通貨である$PXFを得られます。さらに、$PXFを使ってステークを行い、他のプロジェクトトークンを獲得することができます。
+PixelSwap is a decentralized exchange that runs on the Binance Smart Chain, with a focus on providing the best trading experience. Users can pool liquidity into PixelSwap through yield farming and get $PXF, the native currency, as an incentive. In addition, you can use $PXF to stake and earn other project tokens.
 
-## 主な特徴
+## **Main Features**
 
-### 分散型
+### **Decentralized**
 
-ウォレットアプリから直接取引を行います。中央集権取引所のような一元化された仕組みとは異なり、PixelSwapは取引時に資金を保持しません。また、ユーザーの登録は必要なく即時にトークンを交換することができます。
+Transactions are made directly from the wallet app. Unlike centralized exchanges, PixelSwap does not hold any funds at the time of transaction. You can also exchange tokens immediately without registering a user.
 
-### 低料金
+### Low cost
 
-PixelSwapは、Binance Smart Chain上の分散型取引所の為、イーサリアムやビットコインに比べてはるかに低いコストで取引することが可能です。
+Because PixelSwap is a decentralized exchange on the Binance Smart Chain, it can be traded at a much lower cost than Ethereum or Bitcoin.
 
-### ステーキングプールでトークンを獲得する
+### Earn tokens in the staking pool
 
-PixelSwapでトークンを入手できる最も簡単な方法はPoolsを利用する事です。ユーザーは、PXFをステークする事で、長期的により多くの無料トークンを獲得できます。
+The easiest way to get tokens in PixelSwap is to use Pools. Staking PXF allows users to earn more free tokens over time.
 
 ### YieldFarms
 
-PixelSwapのFarmsへLPトークンをstakeする事で高いAPRでPXFを獲得する事ができます。<mark style="color:orange;">流動性を提供することは永久的なリスクにさらされる可能性があります。ImpermanentLossを理解した上で保持する必要があります。</mark>取引手数料を稼ぐ
+By staking LP tokens to Farms on PixelSwap, you can earn PXF at a high APR. <mark style="color:red;">Providing liquidity can be subject to permanent risk. You must understand and retain ImpermanentLoss.</mark>
 
 ### Lottery
 
-PixelSwapのLotteryをプレイする事で高額配当を獲得するチャンスがあります。参加方法は簡単でPXFでチケットを購入するだけ。[詳しく読む](./#lottery)
+By playing the Lottery at PixelSwap, you will have a chance to win a big payout. All you have to do is buy a ticket at PXF. [Read more](./#lottery)
 
 ### PixelStarter
 
-PixelStarterは、ユーザーがBUSDを使用して新たに発行されたトークンを購入することができます。これは、PixelFinanceで採用されているトークンセールのモデルです。
+PixelStarter allows users to purchase newly issued tokens using BUSD. This is the token sale model used by PixelFinance.
 
-
-
-**それでは、PixelSwapをさらに詳しく理解してください。**
+Now, let's learn more about PixelSwap.

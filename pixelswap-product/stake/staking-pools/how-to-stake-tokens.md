@@ -2,17 +2,17 @@
 
 Follow the steps below to stake your PXF
 
-1. ウォレットをPixelSwapに接続します。
-2. プールページへアクセスします。
-3. 使用するステーキングプールを選択します。
-4. 「有効にする」をクリックし、ウォレットでトランザクションを確認します。
-5. Stakeボタンをクリックします。
-6. 賭けたいトークンの数を入力しウォレットで取引を確認します。
+1. Connect the wallet to PixelSwap.
+2. Access the pool page.
+3. Select the staging pool you want to use.
+4. Click "Activate" and confirm the transaction in your wallet.
+5. Click the Stake button.
+6. Enter the number of tokens you wish to bet and confirm the transaction in your wallet.
 
-以上で完了です！
+That's it!
 
-PXFトークンを賭けてPXFトークンを獲得する事ができます！
+You can now bet and win PXF tokens!
 
 ### Harvesting Rewards
 
-トークンを引き出すために使用しているステーキングプールの「ハーベスト」ボタンはいつでも使用できます。
+You can always use the "Harvest" on the staking pool you are using to withdraw your tokens.

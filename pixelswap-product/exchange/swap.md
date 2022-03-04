@@ -1,13 +1,5 @@
 # Swap
 
-PixelSwapのトークンスワップは、自動流動性プールを介してBEP-20トークンを別のBEP-20トークンへ交換することが可能です。
+PixelSwap token swap allows a BEP -20 token to be exchanged for another BEP -20 token via an automated liquidity pool.
 
-
-
-PixelSwapでトークンスワップを行う場合、0.25%の取引手数料を支払う必要があります。取引手数料は以下のように使用されます。
-
-0.17% - 流動性供給者への手数料報酬という形で流動性プールに返却されます。
-
-0.03% - PancakeSwap Treasuryに送られる。
-
-0.05% - CAKEの買い戻しと焼却に充てられる。
+When you do a token swap on PixelSwap, you will have to pay a 0.30% transaction fee. The transaction fee is as follows

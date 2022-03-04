@@ -1,7 +1,7 @@
 # Staking Pools
 
-### ステーキングプールとは何ですか？
+## **What is a staking pool?**
 
-ステーキングプールとは、ユーザーが購入・換金したPXFや農業などで獲得したトークンをパートナープロジェクトに賭け、トークンを獲得することができる仕組みのことをいいます。ステーク（賭け）すればするほど、より多くの利益を得ることができます。
+A staking pool is a mechanism that allows users to place a bet on a partner project for a token that they have acquired through a PXF, farm, etc., that they have purchased and cashed. The more you stake, the more you will benefit.
 
-次のページでは、トークンの[ステーク方法](how-to-stake-tokens.md)について説明します。
+The following pages describe [how to stake tokens](how-to-stake-tokens.md)

@@ -23,10 +23,8 @@
     * [How to Stake Tokens](pixelswap-product/stake/staking-pools/how-to-stake-tokens.md)
   * [Yield Farming](pixelswap-product/stake/yield-farming/README.md)
     * [How to Yield Farm](pixelswap-product/stake/yield-farming/how-to-yield-farm.md)
-* [Lottery](pixelswap-product/lottery/README.md)
-  * [Lottery FAQ](pixelswap-product/lottery/lottery-faq.md)
-* [PIXEL STARTER](pixelswap-product/pixel-starter/README.md)
-  * [PixelStarter FAQ](pixelswap-product/pixel-starter/pixelstarter-faq.md)
+* [Lottery](pixelswap-product/lottery.md)
+* [PIXEL STARTER](pixelswap-product/pixel-starter.md)
 * [AIRDROP](pixelswap-product/airdrop.md)
 
 ## PixelLand product
