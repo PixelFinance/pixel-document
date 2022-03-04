@@ -30,7 +30,7 @@ By playing the Lottery at PixelSwap, you will have a chance to win a big payout.
 
 ### Single Pools
 
-Staking Poolは、ユーザーが購入したブラインドボックスの金額の一部を受け取り、受け取ったNFTを賭けることでPixelFinanceTokenを獲得することができます。とてもシンプルです。PixelFinanceTokenを獲得するためにはNFTを燃やす必要があり、リアルタイムで支払われます。
+Staking Poolは、ユーザーが購入したブラインドボックスの金額の一部を受け取り、受け取ったNFTを賭けることでPixelFinanceTokenを獲得することができます。とてもシンプルです。PixelFinanceTokenを獲得するためにはNFTを燃やす必要があり、リアルタイムで支払あ
 
 ### Fusion Pools
 
