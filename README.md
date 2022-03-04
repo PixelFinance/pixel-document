@@ -1,8 +1,6 @@
 # PixelFinance Intro
 
-PixelFinanceは、Binance Smart Chain上で実行されるDeFiプロトコルであり、ユーザーはPixelFinanceが提供する多くの機能を利用することで独自の通貨である$PXFが報酬として得る事ができます。
-
-
+PixelFinance is a DeFi protocol that runs on the Binance Smart Chain and allows users to earn their own currency, $PXF, by taking advantage of the many features PixelFinance offers.
 
 {% hint style="info" %}
 PixelFinanceは、次の3つのサービスを利用する事で暗号を最大限に活用することができます。
@@ -55,7 +53,5 @@ Users who participate in the lottery can reserve cards and check the winning res
 There is also a jackpot system in which the accumulated fees are distributed to the last holder who wins the card that reaches the final value.
 
 Cards that have reached their final value can also be transferred to PixelLand.
-
-
 
 製品情報については、サービス毎のイントロをご確認下さい。
