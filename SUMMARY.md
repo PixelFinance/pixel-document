@@ -30,13 +30,12 @@
 ## PixelLand product
 
 * [PixelLand Intro](pixelland-product/pixelland-intro.md)
-* [Buy BOX](pixelland-product/buy-box.md)
-* [Fusion](pixelland-product/fusion.md)
-* [Single Pools](pixelland-product/single-pools.md)
-* [Fusion Pools](pixelland-product/fusion-pools.md)
-* [Market Place](pixelland-product/market-place.md)
+* [Buy BOX](pixelland-product/buy-box/README.md)
+* [Fusion](pixelland-product/fusion/README.md)
+* [Single Pools](pixelland-product/single-pools/README.md)
+* [Fusion Pools](pixelland-product/fusion-pools/README.md)
+* [Market Place](pixelland-product/market-place/README.md)
 
 ## TOKENOMICS
 
-* [$PXF](tokenomics/usdpxf/README.md)
-  * [PXF Tokenomics](tokenomics/usdpxf/pxf-tokenomics.md)
+* [$PXF](tokenomics/usdpxf.md)
