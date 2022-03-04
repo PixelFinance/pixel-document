@@ -1,7 +1,7 @@
 # Fusion
 
-Fusion機能とは、PixelLandの特定のNFTを融合して新しいカードを作成する事が出来る機能です。
+Fusion is a feature that allows you to fuse specific NFTs in PixelLand to create a new card.
 
-融合されたカードには、それぞれ名前があり特別な力を発揮します。
+Each fusion card will have its own name and special powers.
 
-Fusionカードは、Fusion PoolsやMarket Placeにて利用することが可能です。
+Fusion cards can be used at Fusion Pools and Market Places.
